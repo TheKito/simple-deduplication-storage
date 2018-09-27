@@ -5,7 +5,7 @@ A small library that storage and get buffer of data to file system with crypo
 
 ## Installation
 
-  `npm install @andresrgard/simple-deduplication-storage`
+  `npm install simple-deduplication-storage`
 
 ## Usage
 
