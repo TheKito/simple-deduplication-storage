@@ -1,6 +1,6 @@
 {
   "name": "simple-deduplication-storage",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "description": "This is a simple implementation of data deduplication over common file system",
   "main": "index.js",
   "scripts": {
